@@ -1,0 +1,2 @@
+1-Abrir o ficheiro interact.lisp
+2-Alterar o path na função -directoria-atual e no -ficheiro-solucao
