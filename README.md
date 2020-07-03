@@ -139,7 +139,7 @@ Para a segunda fase do projeto tivemos de realizar alterações nos operados nom
 
 Algumas das alterações foram realizadas sobre as funções validar movimento e a posição do cavalo.
 
-![alt text](img/KnightMoves.png?sanitize=true "KnightMoves")
+![alt text](Manuais/img/KnightMoves.png?sanitize=true "KnightMoves")
 # 5. Algoritmos e sua implementação
 Neste projeto foi implementado o algoritmo Minimax com corte Alfa-Beta
 ## Minimax
@@ -168,7 +168,7 @@ Nó min é igual a Alfa<= Beta, substituindo o menor valor nó min.
 Nó max é igual a Alfa>= Beta, substituindo o maior valor do nó max.
 
 
-![alt text](img/minimax.png?sanitize=true "KnightMoves")
+![alt text](Manuais/img/minimax.png?sanitize=true "KnightMoves")
 
 ## Alfabeta
 --- 
@@ -188,7 +188,7 @@ Vamos definir os parâmetros alfa e beta.
 
 - Nó min com Beta <= Alfa, então faz corte os nós do nivel acima dos nós iniciais e devolve o Alfa.
 
-![alt text](img/alfabeta.png?sanitize=true "KnightMoves")
+![alt text](Manuais/img/alfabeta.png?sanitize=true "KnightMoves")
 
 ## Ordenação dos nós
 --- 
