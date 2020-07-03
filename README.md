@@ -1,6 +1,6 @@
 # Projeto Nº1: Época Normal - Fase nº 2
 
-![alt text](img/ips_logo.png?sanitize=true "IPS logo")
+![alt text](Manuais/img/ips_logo.png?sanitize=true "IPS logo")
 
 ## Inteligência Artificial 19/20
 Prof. Joaquim Filipe
